@@ -30,7 +30,7 @@ h1 {
 }
 
 .box {
-  width: min(420px, calc(100% - 24px));
+  width: min(600px, calc(100% - 24px));
   margin: 20px auto;
   background: white;
   border-radius: 10px;
